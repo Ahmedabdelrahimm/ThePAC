@@ -1,0 +1,67 @@
+{
+  "sessions": [
+    {
+      "id": 1,
+      "time": "6:00 AM",
+      "capacity": 20,
+      "spotsLeft": 12,
+      "instructor": "Coach Mike",
+      "type": "CrossFit",
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": 2,
+      "time": "7:30 AM",
+      "capacity": 20,
+      "spotsLeft": 5,
+      "instructor": "Coach Sarah",
+      "type": "CrossFit",
+      "difficulty": "Advanced"
+    },
+    {
+      "id": 3,
+      "time": "9:00 AM",
+      "capacity": 15,
+      "spotsLeft": 15,
+      "instructor": "Coach Alex",
+      "type": "Open Gym",
+      "difficulty": "All Levels"
+    },
+    {
+      "id": 4,
+      "time": "12:00 PM",
+      "capacity": 20,
+      "spotsLeft": 8,
+      "instructor": "Coach Mike",
+      "type": "CrossFit",
+      "difficulty": "Beginner"
+    },
+    {
+      "id": 5,
+      "time": "5:30 PM",
+      "capacity": 25,
+      "spotsLeft": 3,
+      "instructor": "Coach Sarah",
+      "type": "CrossFit",
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": 6,
+      "time": "6:30 PM",
+      "capacity": 20,
+      "spotsLeft": 18,
+      "instructor": "Coach Alex",
+      "type": "CrossFit",
+      "difficulty": "Advanced"
+    },
+    {
+      "id": 7,
+      "time": "7:30 PM",
+      "capacity": 15,
+      "spotsLeft": 15,
+      "instructor": "Coach Mike",
+      "type": "Open Gym",
+      "difficulty": "All Levels"
+    }
+  ]
+}

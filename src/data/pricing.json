@@ -1,0 +1,59 @@
+{
+  "pricing": [
+    {
+      "id": 1,
+      "plan": "Drop-in",
+      "price": "$15",
+      "description": "Single session access",
+      "features": [
+        "One CrossFit session",
+        "Equipment access",
+        "Coach guidance"
+      ],
+      "popular": false
+    },
+    {
+      "id": 2,
+      "plan": "10-Pack",
+      "price": "$130",
+      "description": "10 sessions package",
+      "features": [
+        "10 CrossFit sessions",
+        "Equipment access",
+        "Coach guidance",
+        "Valid for 3 months"
+      ],
+      "popular": false
+    },
+    {
+      "id": 3,
+      "plan": "Monthly Unlimited",
+      "price": "$120",
+      "description": "Unlimited monthly access",
+      "features": [
+        "Unlimited CrossFit sessions",
+        "Open gym access",
+        "All equipment included",
+        "Coach guidance",
+        "Free fitness assessment"
+      ],
+      "popular": true
+    },
+    {
+      "id": 4,
+      "plan": "Annual Unlimited",
+      "price": "$1,200",
+      "description": "Best value - unlimited yearly",
+      "features": [
+        "Unlimited CrossFit sessions",
+        "Open gym access",
+        "All equipment included",
+        "Coach guidance",
+        "Free fitness assessment",
+        "2 free guest passes",
+        "10% off merchandise"
+      ],
+      "popular": false
+    }
+  ]
+}

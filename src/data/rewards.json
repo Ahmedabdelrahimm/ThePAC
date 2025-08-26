@@ -1,0 +1,49 @@
+{
+  "rewards": [
+    {
+      "rank": "Bronze",
+      "level": 1,
+      "xpRequired": 0,
+      "reward": "5% off merchandise",
+      "description": "Welcome to The PAC! Start your fitness journey.",
+      "color": "#cd7f32",
+      "icon": "🏆"
+    },
+    {
+      "rank": "Silver",
+      "level": 2,
+      "xpRequired": 1000,
+      "reward": "10% off merchandise + Free protein shake",
+      "description": "You're building momentum! Keep pushing forward.",
+      "color": "#c0c0c0",
+      "icon": "🥈"
+    },
+    {
+      "rank": "Gold",
+      "level": 3,
+      "xpRequired": 2500,
+      "reward": "Free session + 15% off merchandise",
+      "description": "Elite performance! You're a PAC warrior.",
+      "color": "#ffd700",
+      "icon": "🥇"
+    },
+    {
+      "rank": "Elite",
+      "level": 4,
+      "xpRequired": 5000,
+      "reward": "Free month + 20% off merchandise + Guest pass",
+      "description": "Legendary status! You're unstoppable.",
+      "color": "#b9f2ff",
+      "icon": "💎"
+    }
+  ],
+  "userProfile": {
+    "currentRank": "Silver",
+    "currentXP": 1250,
+    "nextRankXP": 2500,
+    "streak": 7,
+    "totalSessions": 45,
+    "favoriteWorkout": "CrossFit",
+    "joinDate": "2024-01-15"
+  }
+}
