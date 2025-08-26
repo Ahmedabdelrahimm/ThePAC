@@ -18,13 +18,13 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <div className="w-8 h-8 rounded-lg flex items-center justify-center overflow-hidden">
-              <img 
-                src="/pac.jpg" 
-                alt="The PAC Logo" 
-                className="w-full h-full object-contain"
-              />
-            </div>
+                         <div className="w-8 h-8 rounded-lg flex items-center justify-center overflow-hidden">
+               <img 
+                 src="/pac.jpg" 
+                 alt="The PAC Logo" 
+                 className="w-full h-full object-contain"
+               />
+             </div>
             <span className="text-xl font-bold text-gray-900">The PAC</span>
           </Link>
 
