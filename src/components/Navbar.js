@@ -18,11 +18,15 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-                         <div className="w-8 h-8 rounded-lg flex items-center justify-center overflow-hidden">
+                         <div className="w-8 h-8 rounded-lg flex items-center justify-center overflow-hidden bg-gray-100">
                <img 
                  src="/pac-removebg-preview.png" 
                  alt="The PAC Logo" 
                  className="w-full h-full object-contain"
+                 onError={(e) => {
+                   console.error('Image failed to load:', e.target.src);
+                   e.target.style.display = 'none';
+                 }}
                />
              </div>
             <span className="text-xl font-bold text-gray-900">The PAC</span>
