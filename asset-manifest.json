@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ThePAC/static/css/main.a1de6392.css",
+    "main.js": "/ThePAC/static/js/main.5cac50cf.js",
+    "index.html": "/ThePAC/index.html",
+    "main.a1de6392.css.map": "/ThePAC/static/css/main.a1de6392.css.map",
+    "main.5cac50cf.js.map": "/ThePAC/static/js/main.5cac50cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1de6392.css",
+    "static/js/main.5cac50cf.js"
+  ]
+}
