@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ThePAC/static/css/main.ceffd923.css",
-    "main.js": "/ThePAC/static/js/main.25b031df.js",
+    "main.js": "/ThePAC/static/js/main.16e65acf.js",
     "index.html": "/ThePAC/index.html",
     "main.ceffd923.css.map": "/ThePAC/static/css/main.ceffd923.css.map",
-    "main.25b031df.js.map": "/ThePAC/static/js/main.25b031df.js.map"
+    "main.16e65acf.js.map": "/ThePAC/static/js/main.16e65acf.js.map"
   },
   "entrypoints": [
     "static/css/main.ceffd923.css",
-    "static/js/main.25b031df.js"
+    "static/js/main.16e65acf.js"
   ]
 }
